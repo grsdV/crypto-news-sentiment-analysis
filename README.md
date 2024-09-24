@@ -13,7 +13,7 @@ This project leverages the NewsCatcher API to fetch cryptocurrency-related news 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/denes/crypto-news-sentiment-analysis.git
+   git clone [https://github.com/grsdV/crypto-news-sentiment-analysis.git]
 2. **Install dependencies**:
    - Navigate to the project directory:
      ```bash
